@@ -1,6 +1,4 @@
-import { Heading, Box, Text } from '@chakra-ui/core'
-import { posts } from '../../data/posts'
-import { useRouter } from 'next/router'
+import { Box, Text } from '@chakra-ui/core'
 
 export default function PokemonCharacter(props) {
   console.log(props)
